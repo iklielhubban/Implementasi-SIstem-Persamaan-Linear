@@ -1,4 +1,4 @@
-# Implementasi-SIstem-Persamaan-Linear
+# Implementasi-Sistem-Persamaan-Linear
 Mohammad Ikliel Hubban Ifthor Mubarok_21120122130081
 
 Deskripsi:
